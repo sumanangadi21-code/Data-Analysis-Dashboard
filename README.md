@@ -26,6 +26,7 @@ To analyze Superstore sales data by cleaning the data, creating PivotTables and 
 - Dashboard Development: Built an interactive Excel dashboard to present key insights, enabling users to filter data dynamically and support data-driven decision-making.
 
 ## Dashboard 
+https://github.com/sumanangadi21-code/Data-Analysis-Dashboard/blob/main/Screenshot%202026-06-29%20233616.png
 
 
 
