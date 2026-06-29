@@ -19,4 +19,13 @@ To analyze Superstore sales data by cleaning the data, creating PivotTables and 
 - Which Category is contributing maaximum to the sales
 - Dashboard Interaction  <a href="https://github.com/sumanangadi21-code/Data-Analysis-Dashboard/blob/main/Screenshot%202026-06-29%20233616.png">View Dashboard</a>
 
+## Process
+- Data Collection & Cleaning: Imported the Superstore dataset, handled missing values, removed duplicates, standardized data formats, and corrected inconsistencies.
+- Data Analysis: Used Excel formulas and PivotTables to analyze sales, profit, orders, and performance across regions, categories, and customer segments.
+- Data Visualization: Created PivotCharts, slicers, and KPI cards to visualize monthly sales trends, regional performance, top-performing products, and profitability.
+- Dashboard Development: Built an interactive Excel dashboard to present key insights, enabling users to filter data dynamically and support data-driven decision-making.
+
+## Dashboard 
+
+
 
