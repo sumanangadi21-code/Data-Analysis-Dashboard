@@ -17,7 +17,6 @@ To analyze Superstore sales data by cleaning the data, creating PivotTables and 
 - Total Profit
 - Total Customers
 - Which Category is contributing maaximum to the sales
+- Dashboard Interaction  <a href="https://github.com/sumanangadi21-code/Data-Analysis-Dashboard/blob/main/Screenshot%202026-06-29%20233616.png">View Dashboard</a>
 
-## Dashboard
 
-- <a href="https://github.com/sumanangadi21-code/Data-Analysis-Dashboard/blob/main/Screenshot%202026-06-29%20233616.png">View Dashboard</a>
