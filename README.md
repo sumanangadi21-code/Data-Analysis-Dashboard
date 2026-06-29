@@ -27,6 +27,7 @@ To analyze Superstore sales data by cleaning the data, creating PivotTables and 
 
 ## Dashboard 
 
+<img width="1288" height="761" alt="Screenshot 2026-06-29 233616" src="https://github.com/user-attachments/assets/2a68a011-4c80-448d-a2f6-162789e9b25c" />
 
 
 
