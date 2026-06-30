@@ -36,8 +36,8 @@ To analyze Superstore sales data by cleaning the data, creating PivotTables and 
 - Sales is more in the month of October and November.
 - Found that high sales do not always result in high profit, highlighting the impact of discounts and low-margin products.
 - The peak sale was in the year 2017.
-- Toatl Sales is 2297201.
-- Total Profit is 286397.
+- Toatl Sales is 22,97,201.
+- Total Profit is 2,86,397.
 - Determined the best-selling products and customer segments, helping identify areas for business growth.
 
 ## Conclusion
